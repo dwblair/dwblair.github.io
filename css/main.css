@@ -37,16 +37,25 @@ a:visited { color: #a0a; }
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
+   font-family: Monaco, "Courier New", monospace;
 }
 
 ul.posts li {
-  line-height: 1.75em;
+  line-height: 1.40em;
+  color: #000;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+  margin-bottom: .75em;
+  margin-top: .5em;
+
 }
 
 ul.posts span {
-  color: #aaa;
+  color: #000 
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
+  line-height: 1.40em;
+  font-style: bold;
 }
 
 /*****************************************************************************/
@@ -91,24 +100,42 @@ ul.posts span {
 }
 
 .site .meta {
-  color: #aaa;
+     line-height: 1.40em;
+  color: #000;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+  margin-top: .5em;
+}
+
+.site .meta span {
+     line-height: 1.40em;
+  color: #000;
+  font-family: Monaco, "Courier New";
+  font-size: 80%;
 }
 
 .site .footer {
-  font-size: 80%;
-  color: #666;
+     line-height: 1.40em;
+  color: #000;
+  font-family: Monaco, "Courier New";
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
+  font-size: 85%;
 }
 
 .site .footer .contact {
-  float: left;
-  margin-right: 3em;
+      line-height: 1.40em;
+  color: #000;
+  font-family: Monaco, "Courier New";
+  font-size: 90%;
 }
 
 .site .footer .contact a {
-  color: #8085C1;
+      line-height: 1.40em;
+  color: #000;
+  font-family: Monaco, "Courier New";
+  font-size: 90%;
 }
 
 .site .footer .rss {
@@ -132,16 +159,19 @@ ul.posts span {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .4em;
+  font-family: Monaco, "Courier New", monospace;
 }
 
 .post ul, .post ol {
   margin-left: 1.35em;
+  font-family: Monaco, "Courier New", monospace;
 }
 
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
+  
 }
 
 .post pre code {
