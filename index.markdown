@@ -12,7 +12,7 @@ Much of the 'open science' software and hardware I develop with [PVOS](http://pv
 
 -----
 
-# Water Monitoring Research
+# Water and Oceanography Research
 
 <img src="pics/openwater.png" width=100</img>
 
