@@ -15,7 +15,7 @@ I've worked with [Public Lab](http://publiclab.org), the [University of Los Ande
 
 # Farming and Agroecology
 
-<img src="pics/farm_smooth.png" width=150</img>
+<img src="pics/agro_eco.png" width=150</img>
 
 I've collaborated with [FarmHack](http://farmhack.org), [The Food Project](http://thefoodproject.org) and [Wolfes Neck Farm](http://wolfesneckfarm.org/) on several projects related to infrastructure and resource analysis for both urban and rural farming contexts.  Some of that work is documented in the Pioneer Valley Open Science [github repository](https://github.com/p-v-o-s).
 
@@ -23,7 +23,7 @@ I've collaborated with [FarmHack](http://farmhack.org), [The Food Project](http:
 
 # Open Science R&D
 
-<img src="pics/pvos.png" width=150 </img>
+<img src="pics/open_science.png" width=150 </img>
 
 Much of the general 'open science' software and hardware I've developed -- including tools for research laboratories, field research, and education --  is archived with [Pioneer Valley Open Science](http://pvos.org), an open science research collective, [here](https://github.com/p-v-o-s/). 
 
