@@ -16,4 +16,4 @@ Much of the 'open science' software and hardware I develop with PVOS, an open sc
 
 <img src="pics/openwater.png" width=100</img>
 
-I've been working to develop and assess free and open source prototypes, reference designs, and data workflows for water monitoring applications. Much of this work is archived [here](href="https://github.com/openwaterproject). 
+I've been working to develop and assess free and open source prototypes, reference designs, and data workflows for water monitoring applications. Much of this work is archived [here](https://github.com/openwaterproject). 
