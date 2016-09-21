@@ -25,6 +25,6 @@ I've collaborated with [FarmHack](http://farmhack.org), [The Food Project](http:
 
 <img src="pics/pvos.png" width=150 </img>
 
-Much of the general 'open science' software and hardware I develop -- for research laboratories, field research, and education --  is archived with [Pioneer Valley Open Science](http://pvos.org), an open science research collective, [here](https://github.com/p-v-o-s/). 
+Much of the general 'open science' software and hardware I've developed -- including tools for research laboratories, field research, and education --  is archived with [Pioneer Valley Open Science](http://pvos.org), an open science research collective, [here](https://github.com/p-v-o-s/). 
 
 
