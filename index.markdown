@@ -12,7 +12,7 @@ Much of the software and hardware I develop is archived at [PVOS](http://pvos.or
 
 -----
 
-# Open Water Project
+# Water Monitoring Research
 
 <a href="https://github.com/openwaterproject"><img src="pics/openwater.png" width=100</img></a>
 
