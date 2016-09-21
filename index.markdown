@@ -4,7 +4,7 @@
 
 -----
 
-# Water and Oceanography
+# Water & Oceanography
 
 <img src="pics/openwater.png" width=150</img>
 
@@ -13,7 +13,7 @@ I've worked with [Public Lab](http://publiclab.org), the [University of Los Ande
 -----
 
 
-# Farming and Agroecology
+# Farming & Agroecology
 
 <img src="pics/farm_smooth.png" width=150</img>
 
