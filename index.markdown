@@ -14,6 +14,6 @@ Much of the software and hardware I develop is archived at [PVOS](http://pvos.or
 
 # Open Water Project
 
-<a href="https://github.com/p-v-o-s/"><img src="pics/openwater.png" width=100</img></a>
+<a href="https://github.com/openwaterproject"><img src="pics/openwater.png" width=100</img></a>
 
-Free and open source prototypes, reference designs, and data workflows for water monitoring devices.
+Free and open source prototypes, reference designs, and data workflows for water monitoring applications.
