@@ -17,6 +17,12 @@
 </div>
 <h1 id="tingly-tentacle-v-0.1">Tingly Tentacle v 0.1</h1>
 <p>Build documentation for Tingly Tentancle version 0.1. Latest file is the 'mother4.brd' file <a href="https://github.com/edge-research/tingly-tentacle/tree/master/mother_board">here</a>.</p>
+<p>General notes:</p>
+<ul>
+<li>There is an error in the wiring -- the input battery (VBAT) should be connected directly to the motor shield input voltage (VMOT). This is addressed under 'Connecting VBAT to VMOT' below.</li>
+<li>Most of the shields and breakouts that are to be placed on the board should be relatively self-explanatory. When there is ambiguity about directionality, a notation for pin names has been added to indicate proper orientation.</li>
+<li>It is recommended to use female headers to mount external breakouts / boards on the PCB. This will allow for easier debugging / replacement in case of damage.</li>
+</ul>
 <h2 id="i2c-pull-up-resistors">I2C Pull-up resistors</h2>
 <p><img width=800 src="resources/tingly/i2c_focus.png"></p>
 <p>Place resistors somewhere in the range of 2.2K - 10K.</p>
@@ -32,6 +38,9 @@
 <h2 id="leds">LEDs</h2>
 <p><img width=800 src="resources/tingly/leds_place.png"></p>
 <p>Place LEDs here. The negative pin for LEDS should be placed on the 'flat' side of the LED symbol.</p>
+<h2 id="motor-setup">Motor setup</h2>
+<p><img src="resources/tingly/motor_wiring.jpg"></p>
+<p>It is recommended that screw terminals, placed on the motor shield itself, be used to connect to the motor wires. Alternatively, the relevant pins are also broken out on the end of the board. These pins are MOTXP, MOTXN, MOTYN, and MOTYP.</p>
 <p> </p>
 <p> </p>
 <hr />
